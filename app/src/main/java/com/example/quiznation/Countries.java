@@ -125,9 +125,7 @@ public class Countries extends AppCompatActivity implements CountryOptionsListAd
 
 
 
-    /**This function has two flaws it is only displaying the object at the first index. Also,
-     * it is only checking the Id of the object at the first index
-     */
+
     private void getAnotherCountryData(CountryModel countryModel) {
         Collections.shuffle(countryModelList, new Random());
         if (countryModelList.get(0).id==keepTheObjectID){
