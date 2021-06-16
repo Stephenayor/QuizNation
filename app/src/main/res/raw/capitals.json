@@ -409,6 +409,116 @@
       "washington dc",
       "england",
       "manchester"
+    ]},
+  {
+    "id":40,
+    "capital": "Ankara",
+    "country": "TURKEY",
+    "options":[
+      "Ankara",
+      "Tunis",
+      "Ashgabat",
+      "Manchester"
+    ]},
+  {
+    "id":41,
+    "capital": "Tallinn",
+    "country": "ESTONIA",
+    "options":[
+      "Asmara",
+      "Mbabane",
+      "Quito",
+      "Tallinn"
+    ]},
+  {
+    "id":42,
+    "capital": "Helsinki",
+    "country": "FINLAND",
+    "options":[
+      "Helsinki",
+      "Suva",
+      "Banjul",
+      "Athens"
+    ]},
+  {
+    "id":43,
+    "capital": "GeorgeTown",
+    "country": "GUYANA",
+    "options":[
+    "Guyana",
+    "Conakry",
+    "Budapest",
+    "GeorgeTown"
+]},
+  {
+    "id":44,
+    "capital": "Montevideo",
+    "country": "URUGUAY",
+    "options":[
+    "Port Villa",
+    "Caracas",
+    "Hanoi",
+    "Montevideo"
+]},
+  {
+    "id":45,
+    "capital": "Brussels",
+    "country": "BELGIUM",
+    "options":[
+      "Quito",
+      "Sofia",
+      "Bujumbura",
+      "Brussels"
+    ]},
+  {
+    "id":46,
+    "capital": "Amsterdam",
+    "country": "NETHERLANDS",
+    "options":[
+      "Ajax",
+      "Dutch",
+      "Amsterdam",
+      "Holland"
+    ]},
+  {
+    "id":47,
+    "capital": "Belgrade",
+    "country": "SERBIA",
+    "options":[
+      "Belgrade",
+      "Oslo",
+      "Riyadh",
+      "Castries"
+    ]},
+  {
+    "id":48,
+    "capital": "Warsaw",
+    "country": "POLAND",
+    "options":[
+      "Riyadh",
+      "Warsaw",
+      "Amsterdam",
+      "Brasilia"
+    ]},
+  {
+    "id":49,
+    "capital": "Athens",
+    "country": "GREECE",
+    "options":[
+      "China",
+      "Athens",
+      "Accra",
+      "Banjul"
+    ]},
+  {
+    "id":50,
+    "capital": "Jerusalem",
+    "country": "ISRAEL",
+    "options":[
+      "Tokyo",
+      "Rome",
+      "Jerusalem",
+      "Suva"
     ]}
 ]
 

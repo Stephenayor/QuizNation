@@ -7,5 +7,38 @@
   {
     "id":"2",
     "citiesInfo":"The capital of Norway remains the most expensive city of the world. In terms of prices and overall expensiveness Oslo is way ahead of London, Zurich and Paris."
+  },
+  {
+    "id": "3",
+    "citiesInfo": "Nigeria is the seventh-most populous country in the world, home to more than 200 million people. While that may be a lot of people, population numbers would likely be even higher if it weren't for the country's high mortality rates and low life expectancy."
+  },
+  {
+    "id": "4",
+    "citiesInfo": "There is a museum in Helsinki, Finland, that has been infested with venomous recluse spiders — Loxosceles laeta — originally from South America. The spiders are very resistant and almost impossible to kill. Till this day, nobody knows who brought them. "
+  },
+  {
+    "id": "5",
+    "citiesInfo": "Amsterdam is a city built on eleven million wooden poles. They are 15–20 metres long and placed in a sandy layer which is around 11 metres deep. While the main train station — Amsterdam Centraal — alone needs 9,000 poles to be supported, an average house usually needs only around ten of them.  "
+  },
+  {
+    "id": "6",
+    "citiesInfo": "London black cab drivers (cabbies) must study street names and local maps for up to four years and pass several exams to be certified with ‘The Knowledge’. Only then, are they licensed to get behind the wheel of one of the world’s most iconic taxis.   Here sat-navs are a beacon of shame; cabbies are expected to learn around 320 popular routes through 25,000 streets,  memorizing 20,000 landmarks and popular spots off by heart, to navigate London’s neighborhoods map-free."
+  },
+  {
+    "id":"7",
+    "citiesInfo": "Honk Kong has the biggest number of Rolls-Royce cars per resident in the entire world."
+  },
+  {
+    "id": "8",
+    "citiesInfo": "It is not really clear how the city’s residents solve the simple issue of burying their dead loved ones. There is not a single graveyard in this city."
+  },
+  {
+    "id": "9",
+    "citiesInfo": "The abbreviation for Los Angeles – L.A., makes up only 3.6% of the whole name. The real name of Los Angeles is spelled correctly as: El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula."
+  },
+  {
+    "id": "10",
+    "citiesInfo": "The Buckingham Palace was built in 1702, therefore, it is unlikely that anyone of the royal circle remembers that the palace was built on top of a brothel."
   }
+
 ]

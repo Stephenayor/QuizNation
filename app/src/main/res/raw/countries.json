@@ -353,7 +353,7 @@
     {
       "id":34,
       "name": "South Africa",
-      "image": "southafrica.png",
+      "image": "south-africa.png",
       "options":[
         "Togo",
         "Kenya",
@@ -403,13 +403,124 @@
     {
       "id":39,
       "name": "United states",
-      "image": "unitedstates.png",
+      "image": "united-states.png",
       "options":[
         "Peru",
         "England",
         "Wales",
         "United states"
-      ]}
-  ]
+      ]},
+   {
+      "id": "40",
+      "name": "Uruguay",
+      "image": "uruguay.png",
+       "options": [
+         "Uruguay",
+         "Pakistan",
+         "Argentina",
+         "Peru"
+     ]},
+   {
+     "id": "41",
+     "name": "Chile",
+     "image": "chile.png",
+     "options": [
+         "Nigeria",
+         "Tahiti",
+         "Chile",
+         "Switzerland"
+   ]},
+   {
+     "id": "42",
+     "name": "Czech",
+     "image": "czech.png",
+     "options": [
+       "Russia",
+       "Czech",
+       "Chile",
+       "Tunisia"
+     ]},
+   {
+     "id": "43",
+     "name": "Russia",
+     "image": "russia.png",
+     "options": [
+       "Chile",
+       "Tahiti",
+       "Russia",
+       "Pakistan"
+     ]},
+
+   {
+     "id": "44",
+     "name": "Scotland",
+     "image": "scotland.png",
+     "options": [
+       "Faroe Island",
+       "Scotland",
+       "Hungary",
+       "France"
+     ]},
+   {
+     "id": "45",
+     "name": "Netherlands",
+     "image": "netherlands.png",
+     "options": [
+       "Morocco",
+       "Netherlands",
+       "Germany",
+       "Georgia"
+     ]},
+   {
+     "id": "46",
+     "name": "Belgium",
+     "image": "belgium.png",
+     "options": [
+       "Netherlands",
+       "Hungary",
+       "Spain",
+       "Belgium"
+     ]},
+   {
+     "id": "47",
+     "name": "Poland",
+     "image": "poland.png",
+     "options": [
+       "Swedeen",
+       "Switzerland",
+       "Poland",
+       "Portugal"
+     ]},
+   {
+     "id": "48",
+     "name": "Serbia",
+     "image": "serbia.png",
+     "options": [
+       "Spain",
+       "Georgia",
+       "Serbia",
+       "Poland"
+     ]},
+   {
+     "id": "49",
+     "name": "Mexico",
+     "image": "mexico.png",
+     "options": [
+       "Finland",
+       "Cyprus",
+       "Canada",
+       "Mexico"
+     ]},
+   {
+     "id": "50",
+     "name": "Finland",
+     "image": "finland.png",
+     "options": [
+       "Czech",
+       "Canada",
+       "Finland",
+       "Faroe Island"
+     ]}
+ ]
 
 

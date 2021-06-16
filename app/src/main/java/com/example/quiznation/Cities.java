@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
+import com.example.quiznation.Model.CitiesModel;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 

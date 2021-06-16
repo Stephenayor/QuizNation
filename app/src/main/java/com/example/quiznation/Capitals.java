@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.quiznation.Adapter.CapitalOptionsListAdapter;
+import com.example.quiznation.Model.CapitalsModel;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
