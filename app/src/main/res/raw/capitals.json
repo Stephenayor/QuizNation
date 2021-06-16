@@ -1,0 +1,415 @@
+[
+  {
+    "id": 1,
+    "capital": "Abuja",
+    "country": "NIGERIA",
+    "options": [
+      "Cairo",
+      "Kyiv",
+      "Accra",
+      "Abuja"
+    ]
+  },
+  {
+    "id": 2,
+    "capital": "Beijing",
+    "country": "CHINA",
+    "options" : [
+      "Singapore",
+      "Beijing",
+      "Hong Kong",
+      "Sao polo"
+    ]
+  },
+  {
+    "id": 3,
+    "capital": "Yamoussoukro",
+    "country": "COTE D'IVOIRE",
+    "options": [
+      "Cairo",
+      "Yamoussoukro",
+      "Zagreb",
+      "Dakar"
+    ]
+  },
+  {
+    "id": 4,
+    "capital": "Algiers",
+    "country": "ALGERIA",
+    "options": [
+      "Kabul",
+      "Luanda",
+      "Algiers",
+      "Brasilia"
+    ]
+  },
+  {
+    "id": 5,
+    "capital": "Luanda",
+    "country": "ANGOLA",
+    "options": [
+      "Beijing",
+      "Luanda",
+      "Algiers",
+      "Dakar"
+    ]
+  },
+  {
+
+    "id": 6,
+    "capital": "Buenos aires",
+    "country": "ARGENTINA",
+    "options": [
+      "Baku",
+      "Cairo",
+      "Buenos aires",
+      "Vienna"
+    ]
+  },
+  {
+    "id": 7,
+    "capital": "Porto-novo",
+    "country": "BENIN",
+    "options": [
+      "Porto-novo",
+      "Sofia",
+      "Bujumbura",
+      "Praia"
+    ]
+  },
+  {
+    "id": 8,
+    "capital": "Brasilia",
+    "country": "BRAZIL",
+    "options": [
+      "Brasilia",
+      "Lisbon",
+      "Lima",
+      "Porto-novo"
+    ]
+  },
+  {
+    "id": 9,
+    "capital": "Bujumbura",
+    "country": "BURUNDI",
+    "options": [
+      "Brussels",
+      "Bujumbura",
+      "Gaborone",
+      "Bujumbura"
+    ]
+  },
+  {
+    "id": 10,
+    "capital": "Yaounde",
+    "country": "CAMEROON",
+    "options": [
+      "Ottawa",
+      "Brasilia",
+      "Algeries",
+      "Yaounde"
+    ]
+  },
+  {
+    "id":11,
+    "capital": "Ottawa",
+    "country": "CANADA",
+    "options": [
+      "Ottawa",
+      "Praia",
+      "Porto-novo",
+      "Cairo"
+    ]
+  },
+  {
+    "id":12,
+    "capital": "Kinshasha",
+    "country": "CONGO",
+    "options": [
+      "Nicosia",
+      "Kinshasha",
+      "Havana",
+      "Kinshasha"
+    ]
+  },
+  {
+    "id":13,
+    "capital": "Cairo",
+    "country": "EGYPT",
+    "options": [
+      "Copenhagen",
+      "Roseau",
+      "Cairo",
+      "Bangui"
+    ]
+  },
+  {
+    "id":14,
+    "capital":"London",
+    "country": "ENGLAND",
+    "options": [
+      "London",
+      "Manchester",
+      "Merseyside",
+      "Toronto"
+    ]
+  },
+  {
+    "id":15,
+    "capital": "Paris",
+    "country": "FRANCE",
+    "options": [
+      "Dakar",
+      "Paris",
+      "Pac de princes",
+      "Abuja"
+    ]
+  },
+  {
+    "id":16,
+    "capital": "Libreville",
+    "country": "GABON",
+    "options": [
+      "Gabon",
+      "Libreville",
+      "Accra",
+      "Bujumbura"
+    ]
+  },
+  {
+    "id":17,
+    "capital": "Berlin",
+    "country": "GERMANY",
+    "options": [
+      "Lisbon",
+      "Dortmund",
+      "Berlin",
+      "Munich"
+    ]
+  },
+  {
+    "id":18,
+    "capital": "Accra",
+    "country": "GHANA",
+    "options": [
+      "Bissau",
+      "Cairo",
+      "Abuja",
+      "Accra"
+    ]
+  },
+  {
+    "id":19,
+    "capital": "Conakry",
+    "country": "GUINEA",
+    "options": [
+      "Kenya",
+      "Guinea",
+      "Lesotho",
+      "Congo"
+    ]
+  },
+  {
+    "id":20,
+    "capital": "Reykjavik",
+    "country": "ICELAND",
+    "options": [
+      "Reykjavik",
+      "Brasilia",
+      "Berlin",
+      "Yaounde"
+    ]
+  },
+  {
+    "id":21,
+    "capital": "Rome",
+    "country": "ITALY",
+    "options":[
+      "Berlin",
+      "Rome",
+      "Ottawa",
+      "Rwanda"
+    ]},
+  {
+    "id":22,
+    "capital": "Nairobi",
+    "country": "KENYA",
+    "options":[
+      "Abuja",
+      "Accra",
+      "Rome",
+      "Nairobi"
+    ]},
+  {
+    "id":23,
+    "capital": "Maseru",
+    "country": "LESOTHO",
+    "options":[
+      "Maseru",
+      "Laos",
+      "Maseru",
+      "Luxembourg"
+    ]},
+  {
+    "id":24,
+    "capital": "Tripoli",
+    "country": "LIBYA",
+    "options":[
+      "Bissau",
+      "Toronto",
+      "Kiev",
+      "Tripoli"
+    ]},
+  {
+    "id":25,
+    "capital": "Lilongwe",
+    "country": "MALAWI",
+    "options":[
+      "Abuja",
+      "Lilongwe",
+      "Mexico",
+      "Windhoek"
+    ]},
+  {
+    "id":26,
+    "capital": "Bamako",
+    "country": "MALI",
+    "options":[
+      "Bamako",
+      "Lesotho",
+      "Accra",
+      "Libreville"
+    ]},
+  {
+    "id":27,
+    "capital": "Mexico city",
+    "image": "MEXICO",
+    "options":[
+      "Mali",
+      "England",
+      "Mexico",
+      "Germany"
+    ]},
+  {
+    "id":28,
+    "capital": "rabat",
+    "country": "MOROCCO",
+    "options":[
+      "Berlin",
+      "Abuja",
+      "Cape town",
+      "rabat"
+    ]},
+  {
+    "id":29,
+    "capital": "windhoek",
+    "country": "NAMIBIA",
+    "options":[
+      "rabat",
+      "kathmandu",
+      "windhoek",
+      "niamey"
+    ]},
+  {
+    "id":30,
+    "capital": "wellington",
+    "country": "NEW ZEALAND",
+    "options":[
+      "wellignton",
+      "oslo",
+      "berlin",
+      "muscat"
+    ]},
+  {
+    "id":31,
+    "capital": "lisbon",
+    "country": "PORTUGAL",
+    "options":[
+      "Brasilia",
+      "Yaounde",
+      "Abuja",
+      "lisbon"
+    ]},
+  {
+    "id":32,
+    "capital": "kigali",
+    "country": "RWANDA",
+    "options":[
+      "Abuja",
+      "lisbon",
+      "castries",
+      "kigali"
+    ]},
+  {
+    "id":33,
+    "capital": "dakar",
+    "country": "SENEGAL",
+    "options":[
+      "cape town",
+      "laos",
+      "lisbon",
+      "dakar"
+    ]},
+  {
+    "id":34,
+    "capital": "cape town",
+    "country": "SOUTHAFRICA",
+    "options":[
+      " cape town",
+      "nairobi",
+      "rome",
+      "cape town"
+    ]},
+  {
+    "id":35,
+    "capital": "madrid",
+    "country": "SPAIN",
+    "options":[
+      "madrid",
+      "dakar",
+      "kiev",
+      "catalunya"
+    ]},
+  {
+    "id":36,
+    "capital": "stockholm",
+    "country": "SWEDEN",
+    "options":[
+      "bern",
+      "bujumbura",
+      "algeries",
+      "stockholm"
+    ]},
+  {
+    "id":37,
+    "capital": "dodoma",
+    "country": "TANZANIA",
+    "options":[
+      "Yaounde",
+      "madrid",
+      "dodoma",
+      "funafuti"
+    ]},
+  {
+    "id":38,
+    "capital": "lome",
+    "image": "TOGO",
+    "options":[
+      "algiers",
+      "london",
+      "lome",
+      "cairo"
+    ]},
+  {
+    "id":39,
+    "capital": "washington dc",
+    "country": "UNITED STATES",
+    "options":[
+      "london",
+      "washington dc",
+      "england",
+      "manchester"
+    ]}
+]
+
+
