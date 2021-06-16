@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">QuizNation</string>
+    <string name="activity_countries">COUNTRIES</string>
+    <string name="activity_capitals">CAPITALS</string>
+    <string name="activity_cities">CITIES</string>
+    <string name="nigeria">NIGERIA</string>
+    <string name="did_you_know">Did you Know?</string>
 </resources>
